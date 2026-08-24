@@ -5,6 +5,12 @@
 
 **Última actualización: Enero de 2025**  
 
+> ### 🆕 ¿Vienes en 2026? El código actualizado está en la rama [`update-2026`](https://github.com/joanby/deeplearning-az/tree/update-2026)
+>
+> Esta rama `master` conserva el código **tal y como se grabó el curso**. Si las librerías han
+> cambiado desde entonces y algo no te ejecuta, la rama `update-2026` tiene el mismo código
+> puesto al día y verificado, con [una explicación de todos los cambios](https://github.com/joanby/deeplearning-az/blob/update-2026/CAMBIOS-2026.md).
+
 En este repositorio encontrarás tres carpetas esenciales para sacar el máximo provecho del curso:
 
 - **Additional Materials:** Transparencias y slides de las clases teóricas.
